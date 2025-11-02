@@ -1,0 +1,5 @@
+# Arquivo de variáveis de ambiente (com a chave API)
+.env
+
+# Pasta de dependências (se você usar Node.js)
+node_modules/
